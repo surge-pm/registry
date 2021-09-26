@@ -3,3 +3,6 @@ Welcome to the package registry of Surge package manager. While you are free to 
 
 ## How to register a package
 Registering a package is easy. Submit a pull-request...
+
+## How to create a registry
+Fork this repository (or the blank version of it [here]())
